@@ -5,4 +5,5 @@ This is a CPU kernel implemented in Verilog, which can supports 17 different ins
 - addi, andi, ori, xori, slti
 - lw, sw
 - beq, bne, j
+
 It solves all kinds of hazard in circuits design.
